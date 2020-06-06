@@ -1,0 +1,152 @@
+.navbar {
+
+    background-color: maroon !important;
+}
+
+.nav-link {
+
+    font-weight: bold !important;
+    color: mintcream;
+}
+
+.navbar-brand {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 40px;
+    font-weight: bold !important;
+    line-height: 1.8;
+    color: floralwhite;
+    text-align: center !important;
+    text-decoration: floralwhite !important;
+    text-shadow: 2px 2px 5px red
+    
+
+}
+
+.carousel-item{
+    height: 700px;
+ }
+
+ .card-title{
+    text-align: center !important;
+ }
+
+ .col-md-3 py-5{
+    text-shadow: fuchsia;
+    display: inline-block;
+ }
+
+
+ 
+
+ @media only screen and (max-width: 600px) {
+    .col {
+      display: block;
+      width: 100%;
+
+    }
+
+}
+
+.col-md-3 inline px-4 {
+
+    background-color: maroon !important;
+    text-shadow: maroon;
+    text-decoration: floralwhite !important;
+}
+
+
+.boder{
+
+    background-color: #616161;
+
+}
+
+.fot{
+    
+    text-align: center;
+    color: white;
+    background-color: #212121 !important
+    
+    
+}
+
+
+.servv {
+    background-color:white !important;
+    text-align: center !important;
+    color: maroon !important;
+    text-decoration: maroon;
+    text-shadow: mediumvioletred;
+    font-weight: bold;
+    
+    text-decoration: underline;
+  text-decoration-color: rgb(41, 13, 13);
+}
+
+.fontt {
+
+    font-family: cursive;
+}
+
+.worrds{
+
+    text-shadow: sienna;
+    font-size: 25px;
+    font-family: serif;
+    text-align: center;
+    color: maroon;
+    text-decoration: underline;
+
+
+}
+
+
+
+
+.social{
+
+text-decoration: maroon;
+font-weight: bold;
+font-size: 30px;
+
+}
+
+.neoo {
+ 
+
+    text-shadow: sienna;
+    font-size: 20px;
+    font-family: serif;
+    text-align: left;
+    color: rgba(161, 12, 12, 0.856);
+    
+
+}
+
+.my-form {
+    color: #305896;
+}
+.my-form .btn-default {
+    background-color: #305896;
+    color: #fff;
+    border-radius: 0;
+}
+.my-form .btn-default:hover {
+    background-color: #4498C6;
+    color: #fff;
+}
+.my-form .form-control {
+    border-radius: 0;
+}
+
+.contt{
+
+    text-align: center;
+  
+    text-decoration: underline;
+    color: maroon;
+    
+
+}
